@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Artificial Intelligence and High-Performance Computing
-- 🌱 I’m currently enrolled in a Computer Science Master's Degree at the University of Tennessee, Knoxville
-- 👯 I’m looking to collaborate on AI projects
-- 🤔 I’m looking for help with new project collaborations
-- 💬 Ask me about anything AI related
-- 📫 How to reach me: ttahmid@vols.utk.edu
+- 🔭 I’m currently working as a Research Associate at the Innovative Computing Laboratory (ICL) at the University of Tennessee, Knoxville
+- 🌱 I graduated with a Computer Science Master's Degree from the University of Tennessee, Knoxville
+- 👯 My research focus is in High-performance Computing, Performance Engineering, and Artificial Intelligence
+- 💬 How to reach me: ttahmid@icl.utk.edu
+- 📫 Personal Website: tokey-tahmid.github.io
